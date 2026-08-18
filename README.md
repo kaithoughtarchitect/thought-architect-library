@@ -10,3 +10,7 @@ There is nothing to install. Read a reference yourself, or hand it to a coding a
 
 - [Factor-driven emotion system](ai-systems/factor-driven-emotion-system/) — persistent behavioural state from ingredients, not mood labels
 - [Dual-model consciousness layer](ai-systems/dual-model-consciousness-layer/) — a private observer that steers the talking model and never speaks
+
+## Methods
+
+- [Is a printed percent a verdict?](methods/printed-percent/) — checklist for a +N% harness claim. A number can print. That is not the same as a verdict.
